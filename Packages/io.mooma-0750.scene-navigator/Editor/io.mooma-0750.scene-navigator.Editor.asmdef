@@ -1,0 +1,14 @@
+{
+  "name": "io.mooma-0750.scene-navigator.Editor",
+  "references": [
+    "io.mooma-0750.scene-navigator"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
