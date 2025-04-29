@@ -1,6 +1,6 @@
 {
   "name": "io.mooma-0750.scene-navigator",
-  "displayName": "io.mooma-0750.scene-navigator",
+  "displayName": "Scene Navigator",
   "version": "1.0.0",
   "description": "A Unity Editor extension that simplifies jumping directly to your target scene.",
   "gitDependencies": {},
@@ -12,6 +12,5 @@
   },
   "legacyFolders": {},
   "legacyFiles": {},
-  "localPath": "/Users/mooma-min/Documents/git-cloned/Scene-Navigator/Packages/io.mooma-0750.scene-navigator",
   "unity": "2019.4"
 }
